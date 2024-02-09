@@ -7,3 +7,6 @@ Art generators
 https://www.artguru.ai/ai-art-generator-from-photo/
 
 https://playground.com/
+
+Translations
+https://doctransgpt.com
